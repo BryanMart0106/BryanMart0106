@@ -22,7 +22,7 @@
   Highly interested in pursuing a career in Data Analysis, Data Science and Artificial Intelligence.
 </p>
 
-🎯 Goals
+🎯 **Goals**
 
 -  Improve my Python development skills focused on data
 -  Deepen my knowledge in Machine Learning and Deep Learning
